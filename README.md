@@ -5,7 +5,7 @@
 Description: Built a serverless web app using AWS Lambda and API Gateway to improve scalability and reduce infrastructure costs.
 
 ## Automated CI/CD Pipeline
-![CI/CD Pipeline]((https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2020/09/30/Screen-Shot-2020-09-30-at-6.05.53-PM.png))
+![CI/CD Pipeline]((https://github.com/aashenaf/project-showcase/blob/main/Automated.png?raw=true))
 Description: Developed a CI/CD pipeline with CodePipeline and CodeBuild, automating deployment to EC2 and improving release cycles.
 
 ## Scalable E-Commerce Platform
