@@ -1,11 +1,12 @@
 # Project Showcase
 
 ## Serverless Web Application
-![Serverless Web Application]((Serverless.png))
+![Serverless Web Application]((https://docs.aws.amazon.com/images/wellarchitected/latest/serverless-applications-lens/images/reference-architecture-for-web-application))
 Description: Built a serverless web app using AWS Lambda and API Gateway to improve scalability and reduce infrastructure costs.
 
 ## Automated CI/CD Pipeline
-![CI/CD Pipeline]((https://github.com/aashenaf/project-showcase/blob/main/Automated.png?raw=true))
+![CI/CD Pipeline](![image](https://github.com/user-attachments/assets/a1a50ae7-f9bc-4ce7-b2e6-479510c1c9ce)
+)
 Description: Developed a CI/CD pipeline with CodePipeline and CodeBuild, automating deployment to EC2 and improving release cycles.
 
 ## Scalable E-Commerce Platform
