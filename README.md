@@ -1,7 +1,7 @@
 # Project Showcase
 
 ## Serverless Web Application
-![Serverless Web Application]((https://docs.aws.amazon.com/images/wellarchitected/latest/serverless-applications-lens/images/reference-architecture-for-web-application.png))
+![Serverless Web Application]((Serverless.png))
 Description: Built a serverless web app using AWS Lambda and API Gateway to improve scalability and reduce infrastructure costs.
 
 ## Automated CI/CD Pipeline
